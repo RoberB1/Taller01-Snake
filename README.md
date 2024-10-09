@@ -1,2 +1,2 @@
 # Taller01-Snake
-![Alt text]( "Integrante1.png")
+![Alt text]( "i3.png")
